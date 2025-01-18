@@ -9,7 +9,6 @@ using namespace std;
 #define dsort(a)            sort(a + 1, a + n + 1, greater<int>())
 const long long N = 2e5 + 5, MOD = 1e9 + 7, OO = 1e18;
 const double PI = acos(-1);
- 
 ll a[N], b[N] ,q[N], s[N], w[N], xy[N], l, r, v, x, y, j;
 string a1[N], b1[N];
 map<char, long long>mp, mk;
