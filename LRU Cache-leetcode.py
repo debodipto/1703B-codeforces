@@ -1,4 +1,3 @@
-
 class Node:
     def __init__(self, key: int = 0, val: int = 0):
         self.key = key
